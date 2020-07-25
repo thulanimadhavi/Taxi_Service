@@ -1,0 +1,64 @@
+body{
+	margin:0px;
+	padding:0px;
+	overflow-y:hidden;
+	}
+.panal{
+	margin:0px;
+	padding:0px;
+	height:12vh;
+	width:100vw;
+	background-color:black;
+}
+.nevi ul {
+	margin-left:vw;
+	width:15vw;
+	list-style:none;
+	padding:0;
+}
+
+.nevi ul  li{
+	height:80px;
+	width:200px;
+	display:block;
+
+	text-align:center;
+	margin:0;
+	background-color:black;
+	color:white;
+	
+}
+.nevi ul  li a{
+		text-decoration:none;
+		color:white;
+		display:block;
+}
+.nevi ul  li :hover{
+	background-color:green;
+	padding:10px;
+	display:block;
+	}
+/*.nevi{
+	margin:0px;
+	height:100vh;
+	width:16%;
+	background-color:black;
+	padding:0px;
+	margin-top:-16px;
+	float:left;
+	text-align:center;
+	}
+
+	
+
+}
+
+
+/*.iframe{
+	width:84%; 
+	height:100vh;
+	border-style:none;
+	margin:0px;
+	padding:0px;
+	
+	}*/
